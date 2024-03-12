@@ -22,7 +22,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "create-structure": "node createStructure.js"
-
   },
   "eslintConfig": {
     "extends": [
